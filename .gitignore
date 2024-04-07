@@ -2,7 +2,6 @@ archive
 env
 test
 train
-uploads
 val
 input
 model.h5
